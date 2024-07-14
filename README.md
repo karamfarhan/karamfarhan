@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI**
 
-- 📝 I regularly write articles on [Blog](https://medium.com/@www.karam777krm)
+- 📝 I regularly write articles on [Blog](https://medium.com/@Anunnaki7)
 
 - 💬 Ask me about **Django, Python,**
 
