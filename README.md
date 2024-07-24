@@ -5,9 +5,8 @@
 
 - 🔭 I’m currently working on [Squares Game](https://squaresggame-production.up.railway.app/) & [BugSweeper](https://bugsweeper.godi.se/)
 
-- 🌱 I’m currently learning **AI**
 
-- 📝 I regularly write articles on [Blog](https://medium.com/@Anunnaki7)
+- 📝 I sometimes write articles on [Blog](https://medium.com/@Anunnaki7)
 
 - 💬 Ask me about **Django, Python,**
 
